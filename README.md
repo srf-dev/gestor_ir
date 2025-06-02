@@ -38,6 +38,8 @@ Esta planilha tem como objetivo centralizar informações que facilitam o preenc
 - Ou Google Sheets (algumas funcionalidades podem ser limitadas).
 - Ou software compatível com arquivos `.xlsx`.
 
+---
+
 ## Autor
 
-Desenvolvido por [Seu Nome].
+Feito com 💜 por Shayare 🐈
